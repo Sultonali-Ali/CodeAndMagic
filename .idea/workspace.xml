@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d11aa7b-e159-42ff-bd36-51182b6005da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/js/drag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/generate-wizards.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/upload.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/mytask3.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/mytask3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/mytask1.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/render-statistics.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/mytask2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/mytask3.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/js/setup.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/setup.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,49 +22,49 @@
     <session id="137674545">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
-          <entry key="project.open.time.0" value="7" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="8" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="3" />
-          <entry key="js" value="17" />
+          <entry key="js" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="3" />
-          <entry key="JavaScript" value="17" />
+          <entry key="JavaScript" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="46" />
-          <entry key="js" value="4099" />
+          <entry key="html" value="60" />
+          <entry key="js" value="5796" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="46" />
-          <entry key="JavaScript" value="4099" />
+          <entry key="HTML" value="60" />
+          <entry key="JavaScript" value="5796" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.48192772">
+    <splitter split-orientation="vertical" split-proportion="0.2935378">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="328">
-                  <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
+                <state relative-caret-position="137">
+                  <caret line="185" column="42" lean-forward="true" selection-start-line="185" selection-start-column="42" selection-end-line="185" selection-end-column="42" />
                   <folding>
                     <element signature="n#style#0;n#svg#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#use#0;n#g#0;n#svg#0;n#div#0;n#div#0;n#div#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -72,19 +78,22 @@
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/js/setup.js">
+            <entry file="file://$PROJECT_DIR$/js/generate-wizards.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="173">
-                  <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+                <state relative-caret-position="80">
+                  <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+                  <folding>
+                    <element signature="e#34#130#0" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/js/mytask3.js">
+            <entry file="file://$PROJECT_DIR$/js/upload.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="80">
-                  <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+                <state relative-caret-position="277">
+                  <caret line="21" column="61" lean-forward="true" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
                 </state>
               </provider>
             </entry>
@@ -108,10 +117,13 @@
       <list>
         <option value="$PROJECT_DIR$/js/mytask.js" />
         <option value="$PROJECT_DIR$/js/mytask1.js" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/mytask2.js" />
         <option value="$PROJECT_DIR$/js/setup.js" />
+        <option value="$PROJECT_DIR$/js/mytask2.js" />
         <option value="$PROJECT_DIR$/js/mytask3.js" />
+        <option value="$PROJECT_DIR$/js/render-statistics.js" />
+        <option value="$PROJECT_DIR$/js/generate-wizards.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/upload.js" />
       </list>
     </option>
   </component>
@@ -191,17 +203,18 @@
       <workItem from="1576846479144" duration="746000" />
       <workItem from="1576864400195" duration="667000" />
       <workItem from="1576866306947" duration="988000" />
+      <workItem from="1576907713290" duration="11915000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36998000" />
+    <option name="totallyTimeSpent" value="48913000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="850" y="0" width="1078" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945235" visible="true" weight="0.21807465" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945235" visible="true" weight="0.18172888" />
       <window_info id="Structure" order="1" sideWeight="0.50054765" side_tool="true" weight="0.1827112" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -237,31 +250,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/mytask1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/mytask2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/setup.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+        <state relative-caret-position="80">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#52#202#0" />
+            <element signature="e#536#590#0" />
+            <element signature="e#622#721#0" />
+            <element signature="e#754#853#0" />
+            <element signature="e#904#924#0" />
+            <element signature="e#979#1038#0" />
+            <element signature="e#1091#1112#0" />
+            <element signature="e#1169#1229#0" />
+            <element signature="e#1352#1737#0" />
+            <element signature="e#2001#2178#0" />
+            <element signature="e#2231#2408#0" />
+            <element signature="e#2464#2663#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/drag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/render-statistics.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#171#548#0" />
+            <element signature="e#579#726#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/generate-wizards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#34#130#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
+        <state relative-caret-position="137">
+          <caret line="185" column="42" lean-forward="true" selection-start-line="185" selection-start-column="42" selection-end-line="185" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#svg#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#use#0;n#g#0;n#svg#0;n#div#0;n#div#0;n#div#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -269,10 +310,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/mytask3.js">
+    <entry file="file://$PROJECT_DIR$/js/upload.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        <state relative-caret-position="277">
+          <caret line="21" column="61" lean-forward="true" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
         </state>
       </provider>
     </entry>
